@@ -1,5 +1,14 @@
+  /* head nav  */
+#Logo{
+    background: linear-gradient(67deg, #2FFF37, transparent);
+}
 #head1{
     padding-left: 50px;
     padding-left: 174px;
     color: white;
+}
+
+/* menu page  */
+.menu-li li a{
+   color: black !important;
 }
